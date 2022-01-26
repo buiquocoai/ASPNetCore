@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bg6uJXobwcQ6KQS97Ob37vqTQlZBLTId206hgWCBpwSoXcPMw2lbP9CrYQRCzG/dWsGKnZVe5wPcCW/r0bU7ZA==",
+  "success": true,
+  "projectFilePath": "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oai.buiquoc\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

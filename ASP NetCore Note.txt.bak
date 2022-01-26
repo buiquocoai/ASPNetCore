@@ -1,0 +1,19 @@
+1. Tạo ứng dụng
+	dotnet new web
+2. Giờ để build ứng dụng gõ lệnh:
+	dotnet build
+3. Để build và chạy ứng dụng luôn gõ
+	dotnet run
+4. Ngoài ra để tự động build và chạy lại khi mã cập nhật sử dụng lệnh:
+	dotnet watch run
+5.	Kích hoạt SSL (truy cập với https) ở môi trường phát triển
+	Thực hiện lệnh sau:
+
+	dotnet dev-certs https --clean
+	dotnet dev-certs https --trust
+6. Tích hợp CSS Bootstrap, JQuery vào ASP.NET
+	gõ npm init để sinh ra file package.json
+7. Cài đặt Bootstrap, Jquery và popper
+	npm install bootstrap
+	npm install jquery
+	npm i popper.js
