@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj": {}
+    "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj": {}
   },
   "projects": {
-    "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj": {
+    "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+        "projectUniqueName": "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
         "projectName": "WebApplicationDemo",
-        "projectPath": "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+        "projectPath": "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
         "packagesPath": "C:\\Users\\oai.buiquoc\\.nuget\\packages\\",
-        "outputPath": "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\obj\\",
+        "outputPath": "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oai.buiquoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

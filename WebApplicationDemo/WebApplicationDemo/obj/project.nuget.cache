@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bg6uJXobwcQ6KQS97Ob37vqTQlZBLTId206hgWCBpwSoXcPMw2lbP9CrYQRCzG/dWsGKnZVe5wPcCW/r0bU7ZA==",
+  "dgSpecHash": "s+KCqpG//EzpPom5+0rbFZdeuBonpT3IZ55TkSXNULOUeYhXWPEwIAz/xfg5Y5yIhr7XeSL6kwtOePk/qY64/g==",
   "success": true,
-  "projectFilePath": "D:\\My Document\\Learming\\ASP.NetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+  "projectFilePath": "D:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oai.buiquoc\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
   ],

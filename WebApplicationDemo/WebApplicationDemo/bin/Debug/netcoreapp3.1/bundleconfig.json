@@ -2,25 +2,26 @@
     {
       "outputFileName": "wwwroot/css/bootstrap.min.css",
       "inputFiles": [                
-        "D:/My Document/Learming/ASP.NetCore/WebApplicationDemo/node_modules/bootstrap/dist/css/bootstrap.min.css"
+        "D:/My Document/Learming/ASPNetCore/WebApplicationDemo/node_modules/bootstrap/dist/css/bootstrap.min.css"
       ]
     },
     {
       "outputFileName": "wwwroot/js/bootstrap.min.js",
       "inputFiles": [
-        "node_modules/bootstrap/dist/js/bootstrap.min.js"
+        "D:/My Document/Learming/ASPNetCore/WebApplicationDemo/node_modules/bootstrap/dist/js/bootstrap.min.js"
       ]
-    },
+    }
+    ,
     {
       "outputFileName": "wwwroot/js/jquery.min.js",
       "inputFiles": [
-        "node_modules/jquery/dist/jquery.min.js"
+        "D:/My Document/Learming/ASPNetCore/WebApplicationDemo/node_modules/jquery/dist/jquery.min.js"
       ]
     },
     {
       "outputFileName": "wwwroot/js/popper.min.js",
       "inputFiles": [
-        "node_modules/popper.js/dist/popper.min.js"
+        "D:/My Document/Learming/ASPNetCore/WebApplicationDemo/node_modules/popper.js/dist/popper.min.js"
       ],
       "minify": {
         "enabled": false,
