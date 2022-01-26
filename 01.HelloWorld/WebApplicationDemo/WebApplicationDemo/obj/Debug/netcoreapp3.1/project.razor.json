@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+  "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "WebApplicationDemo",
   "Documents": [
     {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "d:\\My Document\\Learming\\ASPNetCore\\01.HelloWorld\\WebApplicationDemo\\WebApplicationDemo\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
